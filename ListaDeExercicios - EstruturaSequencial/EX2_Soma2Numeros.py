@@ -3,7 +3,7 @@
 Created on Mon Jun 28 12:18:55 2021
 
 @author: charlelito
-charlelito @yahoo.com.br
+charlelito@yahoo.com.br
 
 Faça um Programa que peça dois números e imprima a soma
 """

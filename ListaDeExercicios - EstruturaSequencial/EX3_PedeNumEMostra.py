@@ -3,7 +3,7 @@
 Created on Mon Jun 28 15:04:00 2021
 
 @author: charlelito
-charlelito @yahoo.com.br
+charlelito@yahoo.com.br
 
 Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
 """
