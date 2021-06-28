@@ -17,4 +17,5 @@ try:
     media = (nota1 + nota2 + nota3 + nota4)/4
     print("\nA média foi "+str(media))
 except ValueError:
+
         print("Erro! Digite apenas números!!")
